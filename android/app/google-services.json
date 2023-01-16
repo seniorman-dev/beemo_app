@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140221921230",
+    "project_id": "beemo-app",
+    "storage_bucket": "beemo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140221921230:android:df3e321f18ef222ec61d9f",
+        "android_client_info": {
+          "package_name": "com.example.beemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140221921230-6dan33j9giit47pmpi2ahth77ij4dbkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgp1PZ1JcOMJMDoolJOx8U0YlLJ5QHK3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140221921230-6dan33j9giit47pmpi2ahth77ij4dbkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
